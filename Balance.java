@@ -1,4 +1,4 @@
-public class Balance {
+public class Balanced {
     public static String isBalanced(String inputStr) {
         int balanceCounter = 0;
         char[] brackets = {'(', ')', '[', ']', '{', '}'};
